@@ -49,11 +49,6 @@ hr {
 	width: 80%;
 }
 
-#feed {
-	padding:5px;
-
-}
-
 .navbar {
 	border-bottom: 1px solid #000;
     border-right: 1px solid #000;
@@ -74,37 +69,15 @@ a:hover {
   text-decoration: none;
 }
 
-.link a {
-  color: blue;
-  border-bottom: 1px solid #000;
-  border-right: 1px solid #000;
-  border-left: 1px solid #000;
-  border-top: 1px solid #000;
-  border:1px solid #000;
-  -moz-border-radius: 1em;
-  -o-border-radius: 1em;
-  -webkit-border-radius: 1em;
-  border-radius: 1em;
-  background-color: #FAFAD2;
-  display: inline-block;
-  font-family: arial, sans-serif;
-  font-size: 16px;
-  font-weight: bold;
-  padding: 20px;
-  text-align: center;
-  text-decoration: none;
-  margin-left: 10%;
-  margin-bottom:10px;
-  width: 80%;
-}
-
-a:hover {
-  color: blue;
-  background-color: #EEE8AA;
-}
 
 .list {
   font-size: 20px;
   font-weight: bold;
   margin-left: 35%;
+}
+
+.dropdown {
+	width:12%;
+	margin:auto;
+	background: #FAFAD2;
 }

@@ -49,11 +49,6 @@ hr {
 	width: 80%;
 }
 
-.banner {
-	margin-:auto;
-	width:60%;
-}
-
 .navbar {
 	border-bottom: 1px solid #000;
     border-right: 1px solid #000;
@@ -72,6 +67,10 @@ a:hover {
   color: blue;
   background: #EEE8AA;
   text-decoration: none;
+}
+
+.banner {
+	margin-:auto;
 }
 
 

@@ -49,6 +49,10 @@ hr {
 	width: 80%;
 }
 
+.banner {
+	margin-:auto;
+}
+
 .navbar {
 	border-bottom: 1px solid #000;
     border-right: 1px solid #000;

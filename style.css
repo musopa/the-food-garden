@@ -11,7 +11,7 @@ Reset
 General Site Pages
 -----------------------------------------------------*/
 body {
-    background: #FAFAD2;
+    background: #fff;
 }
 
 h1 {
@@ -81,7 +81,8 @@ a:hover {
 }
 
 .dropdown {
+	
 	width:12%;
 	margin:auto;
-	background: #FAFAD2;
+	background: #fff;
 }

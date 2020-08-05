@@ -73,6 +73,22 @@ a:hover {
 	margin-left:31%;
 }
 
+.amazon {
+	border-bottom: 1px solid #000;
+    border-right: 1px solid #000;
+    border-left: 1px solid #000;
+    border-top: 1px solid #000;
+    border:1px solid #000;
+	 -moz-border-radius: 1em;
+    -o-border-radius: 1em;
+    -webkit-border-radius: 1em;
+    border-radius: 1em;
+	background: #EEE8AA;
+	margin: auto;
+	width: 60%;
+	padding:10px;
+}
+
 
 .list {
   font-size: 20px;
